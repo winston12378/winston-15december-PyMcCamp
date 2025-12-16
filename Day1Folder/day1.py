@@ -20,8 +20,20 @@ print( zoo2)
 
 ########################################################################
 # Task 3:
+def addition(num1, num2):
+    print(num1 + num2)
+addition(12,9)
 
 
+def division(num1, num2):
+    print(num1 / num2)
+
+division(30, 3)
+
+def subtraction(num1, num2):
+    print(num1 - num2)
+    subtraction(30)
+    
 
 ########################################################################
 # Task 4:
